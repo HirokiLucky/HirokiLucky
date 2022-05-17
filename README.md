@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirokiLucky" />
 </a>
+<a img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=HirokiLucky&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/>
+</a>
