@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=HirokiLucky"
 />
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=HirokiLucky"
+/>
